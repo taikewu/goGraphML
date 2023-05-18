@@ -1,4 +1,4 @@
-module github.com/yaricom/goGraphML
+module github.com/taikewu/goGraphML
 
 go 1.15
 
